@@ -6,6 +6,8 @@ A deep learning project that classifies eye gaze direction from grayscale eye im
 
 ## 📌 Project Overview
 
+![Project Banner](Project Overview.png)
+
 This project focuses on predicting the direction of a person's eye gaze using computer vision and deep learning. A custom CNN model is trained on an eye image dataset containing four gaze classes.
 
 The project includes:
